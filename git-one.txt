@@ -14,11 +14,7 @@ git checkout -b nameofbranch
 
 to checkout to main branch from another branch command is
 ceckout maingit
-git add.
-git status
-git commit -m 'update command'
-git push origin main
-after modifi the file how to push to git gub
+Modify file how to push to git gub the command is below
 git add .
 git status
 git commit -m 'update command'
