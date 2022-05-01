@@ -11,3 +11,6 @@ git puch -u orgin main
 to create branch
 
 git checkout -b nameofbranch
+
+to checkout to main branch from another branch command is
+git checkout main
